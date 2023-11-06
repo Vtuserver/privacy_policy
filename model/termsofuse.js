@@ -50,4 +50,4 @@ const TermsofuseSchema = new Schema({
 });
 
 const Termsofusemodel = model("Termsofuse", TermsofuseSchema);
-module.exports = Termsofusemodel
+module.exports = Termsofusemodel;
